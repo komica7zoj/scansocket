@@ -1,0 +1,8 @@
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\bin\Debug\socketscaner.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\bin\Debug\socketscaner.exe
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\bin\Debug\socketscaner.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\obj\Debug\socketscaner.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\obj\Debug\socketscaner.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\obj\Debug\socketscaner.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\obj\Debug\socketscaner.exe
+c:\users\samsung\documents\visual studio 2015\Projects\socketscaner\socketscaner\obj\Debug\socketscaner.pdb
